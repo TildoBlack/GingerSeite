@@ -1,2 +1,0 @@
-# GingerSeite
-GingerSeite
